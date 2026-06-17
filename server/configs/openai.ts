@@ -5,4 +5,5 @@ const openai = new OpenAI({
   apiKey: process.env.BLUESMINDS_API_KEY,
 });
 
+export { openai };
 export default openai;

@@ -28,7 +28,7 @@ app.use(cors(corsOptions))
 app.use(express.json());
 app.all("/api/auth/{*any}", toNodeHandler(auth));
 
-app.post('api/stripe', express.raw({type: 'application/json'}), stripeWebhook)
+app.post('/api/stripe', express.raw({type: 'application/json'}), stripeWebhook)
 
 app.use(express.json({limit: '50mb'}))
 

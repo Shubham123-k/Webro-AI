@@ -4,46 +4,42 @@ Webro AI is an AI-powered website generation platform that transforms natural la
 
 ## ✨ Features
 
-* 🤖 AI-powered website generation
-* 🎨 Modern and responsive UI
-* 🔐 Secure user authentication
-* 📂 Project management dashboard
-* ⚡ Real-time website generation
-* 🌙 Clean and intuitive user experience
-* 📱 Mobile-friendly design
-* ☁️ Cloud deployment support
-* 💳 Subscription and payment integration
-* 🔄 Save and manage generated projects
+- 🤖 AI-powered website generation
+- 🔐 Secure authentication system
+- 💳 Stripe-powered credit purchases
+- 🪙 Credit-based website generation system
+- 📂 User project dashboard
+- ☁️ Cloud deployment
+- 📱 Fully responsive UI
+- ⚡ Fast AI generation workflow
+- 🗄️ Neon PostgreSQL database integration
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-
-* React.js
-* Vite
-* Tailwind CSS
-* JavaScript / TypeScript
+- React.js
+- Vite
+- Tailwind CSS
 
 ### Backend
-
-* Node.js
-* Express.js
-* Better Auth
-* Prisma ORM
+- Node.js
+- Express.js
+- Better Auth
 
 ### Database
+- Neon PostgreSQL
+- Prisma ORM
 
-* PostgreSQL
+### Payments
+- Stripe Payment Gateway
+- Credit-Based Purchase System
 
 ### AI Integration
-
-* BluesMinds AI API
-* OpenAI Compatible API
+- BluesMinds AI API
 
 ### Deployment
-
-* Vercel (Frontend)
-* Render (Backend)
+- Vercel
+- Render
 
 ---
 

@@ -49,7 +49,7 @@ Webro AI is an AI-powered website generation platform that transforms natural la
 
 ## 📸 Screenshots
 
-(./screenshots/webro-ai.png)
+![Webro-AI](./screenshots/webro-ai.png)
 
 
 ---
